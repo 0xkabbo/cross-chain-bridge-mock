@@ -1,0 +1,10 @@
+{
+  "name": "cross-chain-bridge-mock",
+  "version": "1.0.0",
+  "description": "Mock Architectural Bridge for EVM Interop",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
